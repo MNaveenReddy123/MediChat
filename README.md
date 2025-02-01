@@ -65,23 +65,6 @@ MediChat is an intelligent medical chatbot that leverages advanced AI technology
    npm run dev
    ```
 
-## 🏗️ Project Structure
-
-```
-medichat/
-├── src/
-│   ├── components/     # React components
-│   ├── contexts/       # React contexts
-│   ├── hooks/         # Custom hooks
-│   ├── services/      # API services
-│   ├── types/         # TypeScript types
-│   ├── utils/         # Utility functions
-│   ├── App.tsx        # Main App component
-│   └── main.tsx       # Entry point
-├── public/            # Static assets
-└── ...config files
-```
-
 ## 🔒 Security
 
 - Secure user authentication via Supabase
