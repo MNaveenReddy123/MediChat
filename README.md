@@ -2,6 +2,8 @@
 
 MediChat is an intelligent medical chatbot that leverages advanced AI technology to provide reliable medical information and assistance. Built with modern web technologies and powered by the Google FLAN-T5-Large language model, MediChat offers a user-friendly interface for medical queries and consultations.
 
+🔗 **Live Demo**: [https://vermillion-pie-3a5103.netlify.app/](https://vermillion-pie-3a5103.netlify.app/)
+
 > **Disclaimer**: MediChat is an AI assistant and should not replace professional medical advice. Always consult with qualified healthcare professionals for medical decisions.
 
 ## 🚀 Features
@@ -63,7 +65,22 @@ MediChat is an intelligent medical chatbot that leverages advanced AI technology
    npm run dev
    ```
 
+## 🏗️ Project Structure
 
+```
+medichat/
+├── src/
+│   ├── components/     # React components
+│   ├── contexts/       # React contexts
+│   ├── hooks/         # Custom hooks
+│   ├── services/      # API services
+│   ├── types/         # TypeScript types
+│   ├── utils/         # Utility functions
+│   ├── App.tsx        # Main App component
+│   └── main.tsx       # Entry point
+├── public/            # Static assets
+└── ...config files
+```
 
 ## 🔒 Security
 
@@ -83,14 +100,3 @@ MediChat is an intelligent medical chatbot that leverages advanced AI technology
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- Your Name - Initial work - [YourGitHub](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- Google's FLAN-T5-Large model
-- Supabase team for the excellent BaaS platform
-- React and TypeScript communities
-- All contributors who help improve this project
