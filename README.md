@@ -2,7 +2,8 @@
 
 MediChat is an intelligent medical chatbot that leverages advanced AI technology to provide reliable medical information and assistance. Built with modern web technologies and powered by the Google FLAN-T5-Large language model, MediChat offers a user-friendly interface for medical queries and consultations.
 
-🔗 **Live Demo**: [[https://medi-chat-nu.vercel.app/]]((https://medi-chat-nu.vercel.app/))
+🔗 **Live Demo**: [Live Demo](https://medi-chat-nu.vercel.app/)
+
 
 > **Disclaimer**: MediChat is an AI assistant and should not replace professional medical advice. Always consult with qualified healthcare professionals for medical decisions.
 
